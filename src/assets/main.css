@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Halloween";
+  font-family: "ScaryHalloween";
   src: url("halloween.woff2") format("woff");
+}
+
+html {
+  scroll-behavior: smooth;
 }
