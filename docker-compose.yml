@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  app:
+    container_name: hg-website
+    build: .
+    ports:
+      - "127.0.0.1:7485:80"
