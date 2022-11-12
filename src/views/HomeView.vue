@@ -5,9 +5,9 @@ document.title += " - Home"
 <template>
   <div class="bg-neutral-900">
     <div class="h-[85vh] pt-40 text-white flex">
-      <div class="font-halloween m-auto text-6xl text-center">
+      <div class="font-halloween m-auto text-4xl text-center md:first-letter:text-6xl">
         Let the
-        <div class="text-9xl text-red-700 my-8">Horror</div>
+        <div class="text-7xl text-red-700 my-8 md:text-9xl">Horror</div>
         begin
       </div>
 
